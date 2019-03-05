@@ -1,0 +1,1010 @@
+/* Medium Layout: 1280px. */
+@media only screen and (min-width: 992px) and (max-width: 1200px) { 
+	.advertise {
+		display: none;
+	}
+	.right {
+		display: none;
+	}
+	.customss .nav > li > a {
+		padding: 10px 7px;
+		font-size: 12px;
+	}
+}
+
+@media(min-width:768px) and (max-width:991px){
+    #content h2{
+        padding: 30px 0px 10px 0px;
+    }
+    #content .one i{
+        padding: 30px 10px 0px 20px;
+        font-size: 18px;
+    }
+    #content .one span{
+        font-size: 15px;
+        padding-bottom: 0px;
+    }
+    /*-------------Content part ends-----------------*/
+    #service{
+        padding-top: 50px;
+    }
+    #service .photo h3{
+        padding: 20px 0px 10px;
+    }
+    #service .photo img{
+        padding-bottom: 50px;
+    }
+    #service .new i{
+        font-size: 20px;
+        padding: 20px 8px 10px;
+    }
+    #service .new span{
+        padding: 10px 0px 0px;
+        font-size: 18px;
+    }
+    #service .new p{
+        font-size: 14px;
+        margin-left: -13px;
+    }
+    /*-------------Service part ends-----------------*/
+    #deposit{
+        padding-top: 0px;
+    }
+    #deposit .photo h3{
+        padding: 20px 0px 10px;
+    }
+    #deposit .photo img{
+        padding-bottom: 50px;
+    }
+    #deposit .new i{
+        font-size: 20px;
+        padding: 20px 8px 10px;
+    }
+    #deposit .new span{
+        padding: 10px 0px 0px;
+        font-size: 18px;
+    }
+    #deposit .new p{
+        font-size: 14px;
+        margin-left: -13px;
+    }
+    /*-------------Deposit part ends-----------------*/
+    #traders{
+        padding-top: 0px;
+    }
+    #traders .photo h3{
+        padding: 20px 0px 10px;
+    }
+    #traders .photo img{
+        padding-bottom: 50px;
+    }
+    #traders .new i{
+        font-size: 20px;
+        padding: 20px 8px 10px;
+    }
+    #traders .new span{
+        padding: 10px 0px 0px;
+        font-size: 18px;
+    }
+    #traders .new p{
+        font-size: 14px;
+        margin-left: -13px;
+    }
+    /*-------------traders part ends-----------------*/
+    #charts{
+        padding-top: 0px;
+    }
+    #charts .photo h3{
+        padding: 20px 0px 10px;
+    }
+    #charts .photo img{
+        padding-bottom: 50px;
+    }
+    #charts .new i{
+        font-size: 20px;
+        padding: 20px 8px 10px;
+    }
+    #charts .new span{
+        padding: 10px 0px 0px;
+        font-size: 18px;
+    }
+    #charts .new p{
+        font-size: 14px;
+        margin-left: -13px;
+    }
+    /*-------------charts part ends-----------------*/
+    #analytics{
+        padding-top: 0px;
+    }
+    #analytics .photo h3{
+        padding: 20px 0px 10px;
+    }
+    #analytics .photo img{
+        padding-bottom: 50px;
+    }
+    #analytics .new i{
+        font-size: 20px;
+        padding: 20px 8px 10px;
+    }
+    #analytics .new span{
+        padding: 10px 0px 0px;
+        font-size: 18px;
+    }
+    #analytics .new p{
+        font-size: 14px;
+        margin-left: -13px;
+    }
+    /*-------------analytics part ends-----------------*/
+    #trading_platform{
+        padding-top: 0px;
+    }
+    #trading_platform .photo h3{
+        padding: 20px 0px 10px;
+    }
+    #trading_platform .photo img{
+        padding-bottom: 50px;
+        margin-left: 80px;
+    }
+    #trading_platform .new i{
+        font-size: 20px;
+        padding: 20px 8px 10px;
+    }
+    #trading_platform .new span{
+        padding: 10px 0px 0px;
+        font-size: 18px;
+    }
+    #trading_platform .new p{
+        font-size: 14px;
+        margin-left: -13px;
+    }
+    /*-------------trading_platform part ends-----------------*/
+    #education{
+        padding-top: 0px;
+    }
+    #education .photo h3{
+        padding: 20px 0px 10px;
+    }
+    #education .photo img{
+        padding-bottom: 50px;
+    }
+    #education .new i{
+        font-size: 20px;
+        padding: 20px 8px 10px;
+    }
+    #education .new span{
+        padding: 10px 0px 0px;
+        font-size: 18px;
+    }
+    #education .new p{
+        font-size: 14px;
+        margin-left: -13px;
+    }
+    /*-------------Education part ends-----------------*/
+    #tools{
+        padding-top: 0px;
+    }
+    #tools .photo h3{
+        padding: 20px 0px 10px;
+    }
+    #tools .photo img{
+        padding-bottom: 50px;
+    }
+    #tools .new i{
+        font-size: 20px;
+        padding: 20px 8px 10px;
+    }
+    #tools .new span{
+        padding: 10px 0px 0px;
+        font-size: 18px;
+    }
+    #tools .new p{
+        font-size: 14px;
+        margin-left: -13px;
+    }
+    /*-------------tools part ends-----------------*/
+    #app .bgclr{
+        height: 220px;
+        background: #ededed;
+    }
+    #app .btn1{
+        border-top-left-radius: 2px solid #323232;
+        border-top-right-radius: 2px solid #323232;
+        border: 2px solid #323232;
+        margin-top: 60px;
+        border-radius: 10px;
+        width: 230px;
+    }
+    #app .btn1 a p{
+        text-align: center;
+        padding: 10px 50px 10px;
+        background: #323232;
+        border-radius: 2px;
+    }
+    #app .btn1:hover p{
+        transition: all linear .4s;
+        background: #7e0c0c;
+        border-color: #7e0c0c;
+    }
+    #app .btn1:hover h6{
+        transition: all linear .4s;
+        border-color: #7e0c0c;
+        border-radius: 10px;
+    }
+    #app .btn1 a h6{
+        padding: 5px 0px 0px 15px;
+        text-align: center;
+        font-size: 12px;
+    }
+
+
+    #app .btn2{
+        position: absolute;
+        margin-left: 360px;
+        margin-top: -65px;
+        border-top-left-radius: 2px solid #323232;
+        border-top-right-radius: 2px solid #323232;
+        border: 2px solid #323232;
+        border-radius: 10px;
+        width: 230px;
+    }
+    #app .btn2 a p{
+        text-align: center;
+        padding: 10px 50px 10px;
+        background: #323232;
+        border-radius: 2px;
+    }
+    #app .btn2:hover p{
+        transition: all linear .4s;
+        background: #7e0c0c;
+        border-color: #7e0c0c;
+    }
+    #app .btn2:hover h6{
+        transition: all linear .4s;
+        background: #fff;
+        border-color: #7e0c0c;
+        border-radius: 10px;
+    }
+    #app .btn2 a h6{
+        padding: 5px 0px 0px 15px;
+        text-align: center;
+        font-size: 12px;
+    }
+    #app h4{
+        padding: 10px 0px;
+        font-size: 15px;
+        font-weight: 500;
+    }
+    #app .apl{
+        margin-left: 200px;
+    }
+    #app .playstore{
+        position: absolute;
+        margin-left: 360px;
+        margin-top: -38px;
+    }
+    /*-------------App part ends-----------------*/
+    #app .bgclr{
+        height: 200px;
+        background: #ededed;
+    }
+    #app .btn1{
+        border-top-left-radius: 2px solid #323232;
+        border-top-right-radius: 2px solid #323232;
+        border: 2px solid #323232;
+        margin-top: 40px;
+        border-radius: 10px;
+        width: 230px;
+    }
+    #app .btn1 a p{
+        text-align: center;
+        color: #fff;
+        padding: 10px 50px 10px;
+        background: #323232;
+        border-radius: 2px;
+    }
+    #app .btn1:hover p{
+        transition: all linear .4s;
+        background: #7e0c0c;
+        border-color: #7e0c0c;
+    }
+    #app .btn1:hover h6{
+        transition: all linear .4s;
+        background: #fff;
+        border-color: #7e0c0c;
+        border-radius: 10px;
+    }
+    #app .btn1 a h6{
+        padding: 5px 0px 0px 15px;
+        text-align: center;
+        font-size: 12px;
+    }
+    #app .btn2{
+        position: absolute;
+        margin-left: 260px;
+        margin-top: -65px;
+        border-top-left-radius: 2px solid #323232;
+        border-top-right-radius: 2px solid #323232;
+        border: 2px solid #323232;
+        border-radius: 10px;
+        width: 230px;
+    }
+    #app .btn2 a p{
+        text-align: center;
+        padding: 10px 50px 10px;
+        background: #323232;
+        border-radius: 2px;
+    }
+    #app .btn2:hover p{
+        transition: all linear .4s;
+        background: #7e0c0c;
+        border-color: #7e0c0c;
+    }
+    #app .btn2:hover h6{
+        transition: all linear .4s;
+        background: #fff;
+        border-color: #7e0c0c;
+        border-radius: 10px;
+    }
+    #app .btn2 a h6{
+        padding: 5px 0px 0px 15px;
+        text-align: center;
+        font-size: 12px;
+    }
+    #app h4{
+        padding: 10px 0px;
+        font-size: 15px;
+        font-weight: 500;
+    }
+    #app .apl{
+        margin-left: 100px;
+    }
+    #app .playstore{
+        position: absolute;
+        margin-left: 260px;
+        margin-top: -38px;
+    }
+    /*-------------App part ends-----------------*/
+    #ftr_up{
+        background: #2e2e2e;
+    }
+    #ftr_up .icon{
+        text-align: center;
+        padding: 20px;
+    }
+    #ftr_up .icon i{
+        font-size: 30px;
+    }
+    #ftr_up .icon h5{
+        font-weight: 600;
+        font-size: 13px;
+        padding: 15px 0px 5px;
+    }
+    #ftr_up .icon p{
+        font-size: 8px;
+        padding: 0px 0px 15px;
+    }
+    #ftr_up .icon .divider{
+        height: 110px;
+        width: 1px;
+        background: #908e8f;
+        position: absolute;
+        margin-top: -110px;
+        margin-left: 90px;
+    }
+    #ftr_up .icon .divider2{
+        position: absolute;
+        height: 110px;
+        width: 1px;
+        background: #908e8f;
+        margin-top: -5px;
+        margin-left: -30px;
+    }
+    /*-------------ftr_up part ends-----------------*/
+    footer .menu .all .latest{
+        border: 1px solid #fff;
+        margin-top: 30px;
+        position: absolute;
+        padding: 10px 40px;
+    }
+    footer .menu .all .fa-windows{
+        line-height: 40px;
+        margin-top: 80px;
+        width: 110px;
+    }
+    footer .menu .all .fa-globe{
+        margin-top: 80px;
+        margin-left: 123px;
+        width: 110px;
+    }
+    footer .menu .all .fa-globe span{
+        padding-left: 5px;
+    }
+    footer .menu .all .fa-apple{
+        margin-top: 130px;
+        margin-right: 5px;
+        width: 110px;
+    }
+    footer .menu .all .fa-apple span{
+        padding-left: 5px;
+    }
+    footer .menu .all .fa-play{
+        margin-left: 123px;
+        margin-top: 130px;
+        margin-right: 5px;
+        width: 110px;
+    }
+    footer .menu .all p{
+        font-size: 12px;
+        position: absolute;
+        margin-top: 185px;
+    }
+    footer .menu .all .fa-facebook{
+        margin-top: 250px;
+    }
+    footer .menu .all .fa-twitter{
+        margin-left: 45px;
+        margin-top: 250px;
+    }
+    footer .menu .all .fa-google-plus{
+        margin-left: 85px;
+        margin-top: 250px;
+    }
+    footer .menu .all .fa-youtube{
+        margin-left: 125px;
+        margin-top: 250px;
+    }
+    footer .menu .all .fa-rss{
+        margin-left: 165px;
+        margin-top: 250px;
+    }
+    /*-------------Footer part ends-----------------*/
+    #cpy{
+        background: url(../images/copyright.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 55px;
+    }
+    #cpy .flag{
+        position: absolute;
+        margin-top: 20px;
+    }
+    #cpy span{
+        margin-top: 18px;
+        padding-left: 40px;
+        position: absolute;
+    }
+    #cpy p{
+        font-size: 10px;
+        text-align: center;
+        line-height: 50px;
+    }
+    #cpy .ico i{
+        margin-top: 10px;
+        background: #000300;
+        padding: 10px;
+    }
+    /*-------------cpy part ends-----------------*/
+    #cpy_lst{
+        background: url(../images/copyright.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 130px;
+        border-top: 2px solid #2c2c2c;
+    }
+    #cpy_lst ul{
+        padding-top: 10px;
+    }
+    #cpy_lst ul li{
+        padding: 5px 0px 0px 0px;
+        color: #fff;
+        font-size: 10px;
+    }
+    #cpy_lst img{
+        padding-top: 20px;
+    }
+    /*-------------cpy_lst part ends-----------------*/   
+	.customss .nav > li > a {
+		padding: 5px 5px;
+		font-size: 9px;
+	}
+	.pattern-text, .superior-forex, .Calculator-forex, .Toolbar-forex {
+		width: 100%;
+		text-align: center;
+	}
+}
+ /*-------------Tablet part ends-----------------*/   
+
+@media(min-width:320px) and (max-width:767px){
+    .bg-head{
+        background: url(../images/banner-mobile.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    #content h2{
+        padding: 30px 0px 10px 0px;
+    }
+    #content img{
+        margin-left: 0px;
+    }
+    #content .one i{
+        padding: 30px 10px 0px 20px;
+        font-size: 18px;
+    }
+    #content .one span{
+        font-size: 15px;
+        padding-bottom: 0px;
+    }
+    /*-------------Content part ends-----------------*/
+    #service{
+        padding-top: 50px;
+    }
+    #service .photo h3{
+        padding: 20px 0px 10px;
+    }
+    #service .photo img{
+        padding-bottom: 50px;
+        margin-left: 0px;
+    }
+    #service .new i{
+        font-size: 20px;
+        padding: 20px 8px 10px;
+    }
+    #service .new span{
+        padding: 10px 0px 0px;
+        font-size: 18px;
+    }
+    #service .new p{
+        font-size: 14px;
+        margin-left: -13px;
+    }
+    /*-------------Service part ends-----------------*/
+    #deposit{
+        padding-top: 0px;
+    }
+    #deposit .photo h3{
+        padding: 20px 0px 10px;
+    }
+    #deposit .photo img{
+        padding-bottom: 50px;
+        margin-left: 0px;
+    }
+    #deposit .new i{
+        font-size: 20px;
+        padding: 20px 8px 10px;
+    }
+    #deposit .new span{
+        padding: 10px 0px 0px;
+        font-size: 18px;
+    }
+    #deposit .new p{
+        font-size: 14px;
+        margin-left: -13px;
+    }
+    /*-------------Deposit part ends-----------------*/
+    #traders{
+        padding-top: 0px;
+    }
+    #traders .photo h3{
+        padding: 20px 0px 10px;
+    }
+    #traders .photo img{
+        padding-bottom: 50px;
+        margin-left: 0px;
+    }
+    #traders .new i{
+        font-size: 20px;
+        padding: 20px 8px 10px;
+    }
+    #traders .new span{
+        padding: 10px 0px 0px;
+        font-size: 18px;
+    }
+    #traders .new p{
+        font-size: 14px;
+        margin-left: -13px;
+    }
+    /*-------------traders part ends-----------------*/
+    #charts{
+        padding-top: 0px;
+    }
+    #charts .photo h3{
+        padding: 20px 0px 10px;
+    }
+    #charts .photo img{
+        padding-bottom: 50px;
+        margin-left: 0px;
+    }
+    #charts .new i{
+        font-size: 20px;
+        padding: 20px 8px 10px;
+    }
+    #charts .new span{
+        padding: 10px 0px 0px;
+        font-size: 18px;
+    }
+    #charts .new p{
+        font-size: 14px;
+        margin-left: -13px;
+    }
+    /*-------------charts part ends-----------------*/
+    #analytics{
+        padding-top: 0px;
+    }
+    #analytics .photo h3{
+        padding: 20px 0px 10px;
+    }
+    #analytics .photo img{
+        padding-bottom: 50px;
+        margin: 0 auto;
+    }
+    #analytics .new i{
+        font-size: 20px;
+        padding: 20px 8px 10px;
+    }
+    #analytics .new span{
+        padding: 10px 0px 0px;
+        font-size: 18px;
+    }
+    #analytics .new p{
+        font-size: 14px;
+        margin-left: -13px;
+    }
+    /*-------------analytics part ends-----------------*/
+    #trading_platform{
+        padding-top: 0px;
+    }
+    #trading_platform .photo h3{
+        padding: 20px 0px 10px;
+    }
+    #trading_platform .photo img{
+        padding-bottom: 50px;
+        margin-left: 0px;
+    }
+    #trading_platform .new i{
+        font-size: 20px;
+        padding: 20px 8px 10px;
+    }
+    #trading_platform .new span{
+        padding: 10px 0px 0px;
+        font-size: 18px;
+    }
+    #trading_platform .new p{
+        font-size: 14px;
+        margin-left: -13px;
+    }
+    /*-------------trading_platform part ends-----------------*/
+    #education{
+        padding-top: 0px;
+    }
+    #education .photo h3{
+        padding: 20px 0px 10px;
+    }
+    #education .photo img{
+        padding-bottom: 50px;
+        margin-left: 0px;
+    }
+    #education .new i{
+        font-size: 20px;
+        padding: 20px 8px 10px;
+    }
+    #education .new span{
+        padding: 10px 0px 0px;
+        font-size: 18px;
+    }
+    #education .new p{
+        font-size: 14px;
+        margin-left: -13px;
+    }
+    /*-------------Education part ends-----------------*/
+    #tools{
+        padding-top: 0px;
+    }
+    #tools .photo h3{
+        padding: 20px 0px 10px;
+    }
+    #tools .photo img{
+        padding-bottom: 50px;
+        margin-left: 0px;
+    }
+    #tools .new i{
+        font-size: 20px;
+        padding: 20px 8px 10px;
+    }
+    #tools .new span{
+        padding: 10px 0px 0px;
+        font-size: 18px;
+    }
+    #tools .new p{
+        font-size: 14px;
+        margin-left: -13px;
+    }
+    /*-------------Tools part ends-----------------*/
+     #app .bgclr{
+        height: 200px;
+        background: #ededed;
+    }
+    #app .btn1{
+        border-top-left-radius: 2px solid #323232;
+        border-top-right-radius: 2px solid #323232;
+        border: 2px solid #323232;
+        margin-top: 20px;
+        border-radius: 10px;
+        width: 130px;
+        margin-left: 30px;
+    }
+    #app .btn1 a p{
+        font-size: 8px;
+        text-align: center;
+        color: #fff;
+        padding: 10px 30px 10px;
+        background: #323232;
+        border-radius: 2px;
+    }
+    #app .btn1:hover p{
+        transition: all linear .4s;
+        background: #7e0c0c;
+        border-color: #7e0c0c;
+    }
+    #app .btn1:hover h6{
+        transition: all linear .4s;
+        background: #fff;
+        border-color: #7e0c0c;
+        border-radius: 10px;
+    }
+    #app .btn1 a h6{
+        padding: 5px 0px 0px 15px;
+        text-align: center;
+        font-size: 8px;
+        color: #323232;
+    }
+    #app .btn2{
+        border-top-left-radius: 2px solid #323232;
+        border-top-right-radius: 2px solid #323232;
+        border: 2px solid #323232;
+        margin-top: -50px;
+        margin-left: 170px;
+        border-radius: 10px;
+        width: 130px;
+    }
+    #app .btn2 a p{
+        font-size: 8px;
+        text-align: center;
+        padding: 10px 30px 10px;
+        background: #323232;
+        border-radius: 2px;
+    }
+    #app .btn2:hover p{
+        transition: all linear .4s;
+        color: #fff;
+        border-color: #7e0c0c;
+    }
+    #app .btn2:hover h6{
+        transition: all linear .4s;
+        background: #fff;
+        border-color: #7e0c0c;
+        border-radius: 10px;
+    }
+    #app .btn2 a h6{
+        padding: 5px 0px 0px 15px;
+        text-align: center;
+        font-size: 8px;
+    }
+    #app .apl{
+        margin-left: 30px;
+    }
+    #app .playstore{
+        position: absolute;
+        margin-left: 170px;
+        margin-top: -38px;
+    }
+    /*-------------App part ends-----------------*/
+    #ftr_up{
+        background: #2e2e2e;
+    }
+    #ftr_up .icon{
+        text-align: center;
+        padding: 20px;
+    }
+    #ftr_up .icon i{
+        font-size: 30px;
+    }
+    #ftr_up .icon h5{
+        font-weight: 600;
+        font-size: 13px;
+        padding: 15px 0px 5px;
+    }
+    #ftr_up .icon p{
+        font-size: 8px;
+        padding: 0px 0px 15px;
+    }
+    #ftr_up .icon .divider{
+        height: 110px;
+        width: 1px;
+        background: #908e8f;
+        position: absolute;
+        margin-top: -110px;
+        margin-left: 75px;
+    }
+    /*-------------ftr_up part ends-----------------*/
+    footer{
+        background: url(../images/footer_background.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 1350px;
+    }
+    footer .menu h3{
+        padding: 15px 0px;
+        font-size: 18px;
+    }
+    footer .menu h3:before{
+        height: 440px;
+    }
+    footer .menu ul li{
+        padding: 5px 0px 5px 30px;
+    }
+    footer .menu .middle{
+        padding: 15px 0px;
+    }
+    footer .menu .middle:before{
+        height: 230px;
+    }
+    footer .menu ul .menu2 li a p:after{
+        margin-left: -120px;
+        height: 2px;
+        width: 20px;
+        border-top: 2px dotted #908e8f;
+    }
+    footer .menu .last:before{
+        height: 170px;
+    }
+    footer .menu .all .latest{
+        margin-top: 10px;
+        padding: 10px 65px;
+        border-radius: 5px;
+    }
+    footer .menu .all .fa-windows{
+        margin-top: 80px;
+        width: 130px;
+    }
+    footer .menu .all .fa-globe{
+        margin-top: 80px;
+        margin-left: 152px;
+        width: 130px;
+    }
+    footer .menu .all .fa-apple{
+        margin-top: 130px;
+        width: 130px;
+    }
+    footer .menu .all .fa-play{
+        margin-top: 130px;
+        margin-left: 152px;
+        width: 130px;
+    }
+    footer .menu .all p{
+        text-align: center;
+        margin-top: 180px;
+    }
+    footer .menu .all .fa-facebook{
+        margin-left: 10px;
+        font-size: 20px;
+        margin-top: 250px;
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+    }
+    footer .menu .all .fa-twitter{
+        margin-left: 60px;
+        margin-top: 250px;
+        font-size: 20px;
+        margin-top: 250px;
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+    }
+    footer .menu .all .fa-google-plus{
+        margin-left: 120px;
+        margin-top: 250px;
+        font-size: 20px;
+        margin-top: 250px;
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+    }
+    footer .menu .all .fa-youtube{
+        margin-left: 180px;
+        margin-top: 250px;
+        font-size: 20px;
+        margin-top: 250px;
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+    }
+    footer .menu .all .fa-rss{
+        margin-left: 240px;
+        margin-top: 250px;
+        font-size: 20px;
+        margin-top: 250px;
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+    }
+/*-------------Footer part ends-----------------*/
+   #cpy{
+        background: url(../images/copyright.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 160px;
+    }
+    #cpy .flag{
+        margin-left: 50px;
+        position: absolute;
+        margin-top: 20px;
+    }
+    #cpy span{
+        margin-left: 80px;
+        margin-top: 18px;
+    }
+    #cpy p{
+        font-size: 10px;
+        text-align: center;
+        padding-top: 50px;
+    }
+    #cpy .ico i{
+        margin-left: 10px;
+        margin-top: 10px;
+        padding: 10px;
+    }
+    /*-------------cpy part ends-----------------*/
+    #cpy_lst{
+        background: url(../images/copyright.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 301px;
+        border-top: 2px solid #2c2c2c;
+    }
+    #cpy_lst ul{
+        padding-top: 10px;
+    }
+    #cpy_lst ul li{
+        padding: 5px 0px 0px 0px;
+        font-size: 10px;
+    }
+    #cpy_lst img{
+        padding-top: 20px;
+		 width: 100%;
+	}
+	.pattern-text, .superior-forex, .Calculator-forex, .Toolbar-forex  {
+		width: 90%;
+		text-align: justify;
+		margin:0 auto;
+	}
+	a.customs-btn {
+		margin-bottom: 5%;
+		width: 100%;
+	}
+	.text-pg h2 {
+		font-size: 26px;
+	}
+ }
+    /*-------------cpy_lst part ends-----------------*/ 
+	
+	/* for menu */
+	
+	.logo-menu {
+	  width: 80%;
+	  float: left;
+	}
+	.navbar-toggle.collapsed {
+		padding: 0;
+		padding-top: 25px;
+	}
+	.navbar-collapse.customss {
+		float: left;
+	}
+}
